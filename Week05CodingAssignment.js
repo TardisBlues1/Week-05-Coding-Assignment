@@ -1,4 +1,4 @@
-class Recipe { //This is created as a blueprint for createRecipe
+class Recipe { //This creates as a blueprint for createRecipe
   constructor(name, ingredients, instructions) {
     this.name = name;
     this.ingredients = ingredients;
